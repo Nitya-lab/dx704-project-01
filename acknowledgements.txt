@@ -1,0 +1,8 @@
+I acknowledge the use of the following libraries and resources:
+
+- pandas, numpy, matplotlib — data manipulation and plotting
+- yfinance — downloading market data
+- scipy.optimize — portfolio optimization
+
+I discussed this assignment with no one and did not use any additional sources beyond the course materials,
+other than occasional Google searches to help understand concepts covered in class. 
